@@ -1,3 +1,4 @@
 .env
 .idea
 .vscode
+client/pnpm-lock.yaml
